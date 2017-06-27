@@ -1,0 +1,5 @@
+{
+  "dir_data": "./data/",
+  "dir_data_tmp": "./data/tmp/",
+  "dir_log": "./log/"
+}
