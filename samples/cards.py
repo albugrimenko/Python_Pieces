@@ -37,7 +37,7 @@ class FrenchDeck:
         return choice(self)
 
 
-def test_basic():
+def ttest_basic():
     """ basic tests """
     print("a card:", Card('7', 'diamonds'))
     deck = FrenchDeck()
@@ -58,4 +58,4 @@ def test_basic():
 
 
 if __name__ == "__main__":
-    test_basic()
+    ttest_basic()

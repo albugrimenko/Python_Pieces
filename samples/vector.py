@@ -33,7 +33,7 @@ class Vector:
         return Vector(self.x * other, self.y * other)
 
 
-def test_basic():
+def ttest_basic():
     """ basic tests """
     v1 = Vector(2, 4)
     v2 = Vector(2, 1)
@@ -46,4 +46,4 @@ def test_basic():
 
 
 if __name__ == "__main__":
-    test_basic()
+    ttest_basic()
